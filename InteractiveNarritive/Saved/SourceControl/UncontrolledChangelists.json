@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/2500411/Documents/GitHub/InteractiveNarritive-Team3/InteractiveNarritive/Content/ThirdPerson/Blueprints/BP_Test.uasset",
+				"C:/Users/2500411/Documents/GitHub/InteractiveNarritive-Team3/InteractiveNarritive/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/IS/0843R3PESMSC3HRA95KBD0.uasset",
+				"C:/Users/2500411/Documents/GitHub/InteractiveNarritive-Team3/InteractiveNarritive/Content/ThirdPerson/Blueprints/BPC_InteractionComponent.uasset",
+				"C:/Users/2500411/Documents/GitHub/InteractiveNarritive-Team3/InteractiveNarritive/Content/ThirdPerson/Blueprints/BPI_Interactable.uasset",
+				"C:/Users/2500411/Documents/GitHub/InteractiveNarritive-Team3/InteractiveNarritive/Content/ThirdPerson/Blueprints/BPI_Talkable.uasset",
+				"C:/Users/2500411/Documents/GitHub/InteractiveNarritive-Team3/InteractiveNarritive/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/2500411/Documents/GitHub/InteractiveNarritive-Team3/InteractiveNarritive/Content/FirstPerson/Blueprints/BPI_Interactable.uasset",
+				"C:/Users/2500411/Documents/GitHub/InteractiveNarritive-Team3/InteractiveNarritive/Content/FirstPerson/Blueprints/BPC_InteractionComponent.uasset"
+			]
+		}
+	]
+}
